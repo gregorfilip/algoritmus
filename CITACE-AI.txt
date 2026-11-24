@@ -1,0 +1,9 @@
+Citace použití umělé inteligence
+
+Název projektu: Algoritmizace – vzdělávací projekt
+Použitý nástroj: GitHub Copilot, Copilot SDK ve Visual Studio Code
+Typ použití: Tvorba a úprava HTML, CSS a JavaScriptu; návrh obsahu a interaktivního testu
+Datum použití: 24. listopadu 2026
+
+Citace:
+GitHub Copilot. (2026). Úprava a generování kódu a obsahu webové stránky „Algoritmy – zpracování textu“ [AI-asistované vytvoření webové stránky]. Citovaný výstup vytvořený nástrojem Copilot SDK ve Visual Studio Code.
